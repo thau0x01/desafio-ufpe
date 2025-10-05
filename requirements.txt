@@ -5,7 +5,7 @@ chardet==3.0.4
 click==7.1.2
 colorama==0.4.3
 Deprecated==1.2.10
-Django==3.1.14
+Django==4.2.25
 djangorestframework==3.11.2
 djangorestframework-simplejwt==4.4.0
 dnspython==2.0.0
