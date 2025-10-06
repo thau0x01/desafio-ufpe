@@ -19,7 +19,7 @@ PyGithub==1.51
 PyJWT==2.4.0
 pylint==2.5.3
 pytz==2020.1
-requests==2.24.0
+requests==2.32.4
 semver==2.9.1
 six==1.12.0
 sqlparse==0.3.1
